@@ -6,7 +6,7 @@ import { Button } from "react-bootstrap";
 function Inicio() {
   const {isFinal, restart} = useCart()
   return (
-    <div className="d-flex align-items-center justify-content-between" style={{height:"40vw"}}>
+    <div className="d-flex align-items-center justify-content-center" style={{height:"40vw"}}>
       {!isFinal && 
       <div className="d-flex align-items-center" style={{height:"40rem", gap:"1vw"}}>
           {items.map((item) => (
