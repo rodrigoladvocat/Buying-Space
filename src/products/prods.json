@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Amoeba",
+        "about": "A Amoeba - a massinha de brincar - como ficou conhecida, é outro grande sucesso da Asca Toys. DISPONÍVEL EM VÁRIAS CORES!",
+        "price": 10.00,
+        "img": "../../public/amoeba.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pino",
+        "about": "Pino de aço, com 1 polegada de comprimento. Ideal para fixar coisas. Não é recomendado para uso em foguetes.",
+        "price": 10.00,
+        "img": "../../public/bolt.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Motor F-1",
+        "about": "Thrust: 1,740,100 lbf (muita coisa). Thrust-to-weight-ratio: 94.1 (bastante também). Motor de foguete extremamente potente, usado em foguetes como o Falcon Heavy, da SpaceX.",
+        "price": 10.00,
+        "img": "../../public/engine.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Guitarra Fender",
+        "about": "Guitarra Fender Stratocaster, uma das guitarras mais icônicas do mundo. Não é assinada pelo John Mayer.",
+        "price": 10.00,
+        "img": "../../public/fender.jpeg"
+    }
+]
